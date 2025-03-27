@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there! 👋 I'm [Gabriela]  
 
-<!--
-**gabrielaamls/gabrielaamls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Quality Assurance Engineer | Web Application Tester**  
 
-Here are some ideas to get you started:
+💡 Passionate about **Software Quality Assurance and Analysis**  
+📚 Currently studying **Information Systems at Institut Teknologi Del** (6th Semester)  
+⚡ Experienced in **Testing Automation, Web Vulnerability Scanning, and Performance Testing**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 **Tech Stack & Skills**  
+- **Software Testing:** Manual Testing, Automation Testing, Test Case Design  
+- **QA Tools:** Selenium, JMeter, Postman, OpenVAS, Arachni  
+
+---
+### 📫 **Connect with Me**  
+💼 [LinkedIn](https://www.linkedin.com/in/gabriela-silitonga/)  
+🌐 [Portfolio](https://herisitompul.github.io/puhatt/)  
+📩 [Email](gabrielaamls@gmail.com)
+
+---
+
+✨ *"Ensuring software quality through testing, analysis, and continuous improvement!"*  
