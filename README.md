@@ -3,7 +3,7 @@
 🚀 **Aspiring Software Quality Assurance Engineer | Web Application Tester**  
 
 💡 Passionate about **Software Quality Assurance and Analysis**  
-📚 Currently studying **Information Systems at Institut Teknologi Del** (6th Semester)  
+📚 Currently studying **Informatics at Del Institut of Technology** (6th Semester)  
 ⚡ Experienced in **Testing Automation, Web Vulnerability Scanning, and Performance Testing**  
 
 ---
