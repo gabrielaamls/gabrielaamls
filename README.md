@@ -10,7 +10,7 @@
 
 ### 🔥 **Tech Stack & Skills**  
 - **Software Testing:** Manual Testing, Automation Testing, Test Case Design  
-- **QA Tools:** Selenium, JMeter, Postman, OpenVAS, Arachni  
+- **QA Tools:** Selenium, Katalon, Postman
 
 ---
 ### 📫 **Connect with Me**  
