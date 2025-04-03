@@ -15,7 +15,7 @@
 ---
 ### 📫 **Connect with Me**  
 💼 [LinkedIn](https://www.linkedin.com/in/gabriela-silitonga/)  
-🌐 [Portfolio](https://herisitompul.github.io/puhatt/)  
+🌐 [Portfolio](https://gabrielaamls.github.io/puhatt/)  
 📩 [Email](gabrielaamls@gmail.com)
 
 ---
