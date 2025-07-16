@@ -2,7 +2,7 @@
 
 🚀 **Aspiring System Analyst | Bridging Business Needs and Technology**  
 
-💡 Passionate about **System Analysis, Software Design, and Process Optimization**  
+💡 Passionate about **System Analysis, Software Testing, and Process Optimization**  
 📚 Currently studying **Informatics at Institut Teknologi Del** (6th Semester)  
 ⚡ Experienced in **Requirement Gathering, UML Modeling, and Software Testing**
 
