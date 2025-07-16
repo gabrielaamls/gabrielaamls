@@ -10,7 +10,7 @@
 
 ### 🔍 **Tech Stack & Skills**  
 - **System Analysis:** Requirement Elicitation, Use Case Design, Business Process Modeling (BPMN)  
-- **Modeling Tools:** Draw.io, Lucidchart, Microsoft Visio  
+- **Modeling Tools:** Draw.io 
 - **Software Testing:** Manual Testing, Test Case Design, Web Vulnerability Scanning  
 - **Tools & Technologies:** Katalon Studio  
 
